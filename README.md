@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Eydean Open Source Community
 
-You can use the [editor on GitHub](https://github.com/openeydean/openeydean.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+As technologists, we believe our role in shaping the world of tomorrow is through contribution to open source projects. And in that regard, our members have felt a dire need for proper channel to guide young minds towards open source contribution. We Will be constantly putting an effort on wanting to bring this idea to motion in a proper way.
 
-### Markdown
+Based on top of Open Source Culture and Development, our organization uses a significant portion of  time and effort to find ways to nurture new people to join the Open Source community. This has helped us prepare for engaging interested people in community and open source projects. With a team aligned to the values and ready to help new people for onboarding, we have separated time & resources for involving learners to the community. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Involvement made sure
 
-```markdown
-Syntax highlighted code block
+Our organizational policy requires that any member provide a notice of any plans for vacation a month prior to the date.  This leaves us with plenty of time to re-allocate and devise plans to support the assignment of the mentor on holiday/vacation. Given our interest in serving as much we can,  we, the mentors, are willing to take up any extra effort that might be necessary to make the contest go smooth.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/openeydean/openeydean.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Mentors
+Our team of mentors is a small group of closely working community-loving individuals. While we do not see any possibility of having to deal with unresponsive behavior from any one of us, we understand the necessity of having a plan to avoid it. Should such situation arise, we have committed ourselves to give in to whatever tasks should have been done by the unresponsive mentor, and demand an proper explanation for such behavior. Action will be taken to avoid such situation should it appear.
