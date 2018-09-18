@@ -11,3 +11,7 @@ Our organizational policy requires that any member provide a notice of any plans
 
 ## Mentors
 Our team of mentors is a small group of closely working community-loving individuals. While we do not see any possibility of having to deal with unresponsive behavior from any one of us, we understand the necessity of having a plan to avoid it. Should such situation arise, we have committed ourselves to give in to whatever tasks should have been done by the unresponsive mentor, and demand an proper explanation for such behavior. Action will be taken to avoid such situation should it appear.
+
+## Projects for 2018 Code in
+
+Visit https://openeydean.github.io/Google-Code-In-Projects/
